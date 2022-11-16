@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Why do we use it? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos cupiditate dolore, esse sapiente eius error accusantium veniam et nihil facilis modi laboriosam impedit perferendis. Provident rem officiis porro consequatur veritatis autem consectetur delectus sed omnis sequi. Dignissimos voluptatem ratione qui? Nam, labore. Repellendus vel possimus deleniti dolorum nesciunt consequatur ut quae blanditiis, dolores inventore id odit sequi molestiae cum illum reiciendis dicta. Ab, animi. Tenetur nostrum obcaecati ea dolorem libero qui illum voluptas quaerat omnis veritatis, accusantium officia ducimus autem iusto. Dolores praesentium et nobis veniam maiores sed facilis explicabo molestiae ex. Distinctio amet necessitatibus illo molestias libero magnam illum.",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Opening Party!",
+            "body": "Why do we use it? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos cupiditate dolore, esse sapiente eius error accusantium veniam et nihil facilis modi laboriosam impedit perferendis. Provident rem officiis porro consequatur veritatis autem consectetur delectus sed omnis sequi. Dignissimos voluptatem ratione qui? Nam, labore. Repellendus vel possimus deleniti dolorum nesciunt consequatur ut quae blanditiis, dolores inventore id odit sequi molestiae cum illum reiciendis dicta. Ab, animi. Tenetur nostrum obcaecati ea dolorem libero qui illum voluptas quaerat omnis veritatis, accusantium officia ducimus autem iusto. Dolores praesentium et nobis veniam maiores sed facilis explicabo molestiae ex. Distinctio amet necessitatibus illo molestias libero magnam illum.",
+            "author": "yoshi",
+            "id": 2
+        }
+    ]
+}
